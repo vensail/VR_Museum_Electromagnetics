@@ -20,4 +20,4 @@ Step3, users can entry a system of Q&A, they can practise knowledges about Elect
 <img width="457" height="273" alt="f6568d30b14ba3b793ea1047edab65b" src="https://github.com/user-attachments/assets/9dc0c7bf-ce2c-49f5-a2c0-3cdbedc4bced" />
 
 
-I am sorry because details more could not be public now, because it is design by myself.
+I am sorry that details more could not be public now, because it is designed by myself.
